@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "Jamfile": "plaintext",
+        "string.h": "c"
+    }
+}
